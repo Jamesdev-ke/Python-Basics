@@ -75,3 +75,20 @@ nl()
 
 #BOOLEAN EXPRESSIONS (TRUE OR FALSE)
 
+#VARIABLES AND METHODS
+quote = "All is fair in love and war." print(quote)
+print(quote.upper()) #uppercase print(quote. lower()) #lowercase
+print(quote.title()) #title case
+print(len(quote)) #counts characters
+name="Heath" #string gpa = 3.7 #float has a decimal -
+age 33 #int
+print(int(age))
+print(int(30.1))
+print(int(30.9)) #Will it round? NO.
+
+print("My name is + name + and I am + s
+			sdsad
+sdkjand
+			asdas
+			lksandasd
+			sad
