@@ -18,6 +18,8 @@ print(50 ** 2) #xponents
 print(50 % 6) #modulo - takes what is left over
 print(506) #division with remainder (or a float)
 print(50 // 6) #no remainder
+pow(n,2) #power 2 of number n
+pow(n,3) #power 3 of number n
 
 print(/n)
 #VARIABLES AND METHODS
@@ -87,8 +89,6 @@ print(int(30.1))
 print(int(30.9)) #Will it round? NO.
 
 print("My name is + name + and I am + s
-			sdsad
-sdkjand
-			asdas
-			lksandasd
-			sad
+
+    
+      
